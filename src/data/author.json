@@ -1,44 +1,39 @@
 {
-    "name": "Anna Quincey",
+    "name": "Imane Qajjou",
     "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
+    "location": "Annecy, FR",
+    "avatar": "",
     "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "iqajjou@yahoo.fr",
+    "telephone": "+33 6 51 98 12 37",
+    "website": "",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "French",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "Spanish",
+            "level": "fluent"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@ImaneQ",
+            "url": "https://github.com/ImaneQ"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Imane Qajjou",
+            "url": "www.linkedin.com/in/imane-qajjou"
         }
     ]
 }

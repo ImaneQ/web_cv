@@ -1,7 +1,7 @@
 ---
-title: A-Levels
-organization: Saint Ipsum High School
-location: Graz, AT
-start: 2004-09-01
-end: 2012-07-01
+title: Scientific Baccalaureate Chemistry option with European mention  
+organization: Lycée Hilaire de Chardonnet 
+location: Chalon sur saône, Fr
+start: 2012-09-02
+end: 2015-06-01
 ---
